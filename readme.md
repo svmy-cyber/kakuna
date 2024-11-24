@@ -1,4 +1,4 @@
-# Security Hardening PowerShell Script
+# Windows Hardening PowerShell Script
 
 ## Overview
 
